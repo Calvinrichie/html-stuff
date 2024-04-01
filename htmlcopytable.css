@@ -1,0 +1,18 @@
+td {
+    border: 2px dashed blue;
+    
+}
+
+table {
+    width: 80%;
+    border: 1px solid black;
+    
+}
+
+tr, td{
+    height: 25px;
+}
+
+tr {background-color: lightcoral;} 
+
+td {}
